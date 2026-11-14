@@ -46,3 +46,7 @@ python -m unittest discover -s tests
 ```
 
 Tests use the specified female and male sample data.
+
+## Reflection
+
+This assignment came with a lot of challenges, as the last few homeworks were very specific and targeted. This assignment took the work from previous assignments and generalized it so any inputted player name, which was much more complicated than I initially thought it would be. It was helpful to distinctly separate downloading, cleaning, and plotting functions, to keep every part of the pipeline distinct and organized. An added issue was the difference in male and female data files, so there had to be separate code for extracting age from birthdays, versus just given age. I really wanted to keep all the code as simple and short as possible, and it took a lot of iterations to simplify the code. My first few attempts ended up with really complex, convoluted code, and it took a few attempts to find cleaner, more direct ways to organize my code. Overall, the assingment was difficult and took a lot of effort, but I feel much more confident in my general repo organization, and my coding approach. I also tried to improve on previous assingments, where I've lost points for not including enough commits.  
